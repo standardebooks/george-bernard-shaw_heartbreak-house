@@ -7,6 +7,6 @@ header{
 	text-align: center;
 }
 
-#preface p:last-child{
-	margin: 1em;
+section#preface > div:last-child > p:last-child{
+	margin-top: 2em;
 }
