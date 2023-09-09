@@ -2,14 +2,14 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 section#preface header{
+	break-after: avoid;
 	font-variant: small-caps;
 	margin-top: 3em;
 	text-align: center;
-	break-after:avoid;
 }
 
-section#preface p {
-	margin-top:1em;
+section#preface p{
+	margin-top: 1em;
 }
 
 section#preface > div:last-child > p:last-child{
