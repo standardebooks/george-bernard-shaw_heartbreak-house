@@ -1,12 +1,17 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-header{
+section#preface header{
 	font-variant: small-caps;
 	margin-top: 3em;
 	text-align: center;
 }
 
+section#preface p {
+	margin-top:1em;
+}
+
 section#preface > div:last-child > p:last-child{
 	margin-top: 2em;
 }
+
