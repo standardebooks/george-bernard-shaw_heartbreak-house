@@ -103,6 +103,6 @@ tr.together td + td{
 	padding-left: .5em;
 }
 
-[epub|type~="z3998:drama"] table p {
+[epub|type~="z3998:drama"] table p{
 	text-indent: 0;
 }
