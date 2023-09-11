@@ -16,8 +16,7 @@ section#preface > div:last-child > p:last-child{
 	margin-top: 2em;
 }
 
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -56,7 +55,6 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -94,11 +92,6 @@ tr.together td + td{
 	border-left: 1px solid;
 }
 
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
-}
-
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
 }
@@ -107,8 +100,17 @@ tr.together td + td{
 	text-indent: 0;
 }
 
+figure{
+	break-inside: avoid;
+}
+
 figure img{
 	display: block;
 	margin: auto;
 	max-width: 100%;
+}
+
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
 }
