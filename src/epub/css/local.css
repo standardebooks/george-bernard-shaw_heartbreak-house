@@ -5,11 +5,8 @@ section#preface header{
 	break-after: avoid;
 	font-variant: small-caps;
 	margin-top: 3em;
+	margin-bottom: 1em;
 	text-align: center;
-}
-
-section#preface p{
-	margin-top: 1em;
 }
 
 section#preface > div:last-child > p:last-child{
