@@ -50,12 +50,12 @@
 		<dc:description id="description">Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1919, &lt;i&gt;Heartbreak House&lt;/i&gt; is an examination of the failings of the European leisure classes before World War I; failings that author &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; blamed for the war, and that he predicted would quickly lead to another, longer war.&lt;/p&gt;
-			&lt;p&gt;The play is set in an English country house, where representatives of every type of English society have gathered at the home of the seemingly mad Captain Shotover. Prim aristocrats and cultured bohemians, wealthy capitalists and idle libertines, are all laid bare in one of Shaw’s bleakest and yet most absurd plays.&lt;/p&gt;
+			&lt;p&gt;The play is set in an English country house, where representatives of every type of English society have gathered at the home of the seemingly mad Captain Shotover. Hidebound aristocrats and cultured bohemians, wealthy capitalists and radical idealists, prim moralists and idle libertines, are all laid bare in one of Shaw’s bleakest and yet most absurd plays.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3543</dc:source>
 		<dc:source>https://archive.org/details/heartbreakhouseg00shawrich</dc:source>
-		<meta property="se:production-notes">Shaw published his plays according to his own ideas of spelling reform. Specifically, he did not include apostrophes in common contractions such as “don’t” and “that’s”. This apostrophe (and the Project Gutenberg edition on which it is based) re-introduce these apostrophes. Some of Shaw’s reformed spellings have been retained where they are consistent with modern American spellings, as in “colour”. Other archaic or obsolete spellings have been modernized in accordance with Standard Ebooks editorial policy.</meta>
+		<meta property="se:production-notes">Shaw published his plays according to his own ideas of spelling reform. Specifically, he did not include apostrophes in common contractions such as “dont” and “theyre.” This edition (and the Project Gutenberg edition on which it is based) re-introduce these apostrophes. Some of Shaw’s reformed spellings have been retained where they are consistent with modern American spellings, as in “color.” Other archaic or obsolete spellings have been modernized in accordance with Standard Ebooks editorial policy.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heartbreak_House</meta>
