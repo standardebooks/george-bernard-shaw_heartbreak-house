@@ -4,8 +4,8 @@
 section#preface header{
 	break-after: avoid;
 	font-variant: small-caps;
-	margin-top: 3em;
 	margin-bottom: 1em;
+	margin-top: 3em;
 	text-align: center;
 }
 
@@ -120,4 +120,28 @@ figure img{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+/* Dramatis personae */
+[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+[epub|type~="z3998:dramatis-personae"] p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul li{
+	font-style: italic;
+	margin: 1em;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul + p{
+	margin-top: 2em;
 }
