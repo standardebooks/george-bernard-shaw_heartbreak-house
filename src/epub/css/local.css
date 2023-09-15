@@ -122,7 +122,6 @@ figure img{
 	display: none;
 }
 
-/* Dramatis personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -140,8 +139,4 @@ figure img{
 [epub|type~="z3998:dramatis-personae"] ul li{
 	font-style: italic;
 	margin: 1em;
-}
-
-[epub|type~="z3998:dramatis-personae"] ul + p{
-	margin-top: 2em;
 }
