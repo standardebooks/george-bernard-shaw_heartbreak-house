@@ -47,6 +47,10 @@ section#preface > div:last-child > p:last-child{
 	width: 20%;
 }
 
+[epub|type~="z3998:drama"] figure > img{
+	max-height: 4em;
+}
+
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
