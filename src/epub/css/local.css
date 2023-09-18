@@ -1,16 +1,9 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-section#preface header{
-	break-after: avoid;
-	font-variant: small-caps;
-	margin-bottom: 1em;
-	margin-top: 3em;
-	text-align: center;
-}
-
-section#preface > div:last-child > p:last-child{
-	margin-top: 2em;
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:drama"] table{
