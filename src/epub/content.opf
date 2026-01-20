@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3543</dc:source>
 		<dc:source>https://archive.org/details/heartbreakhouseg00shawrich</dc:source>
 		<meta property="se:production-notes">Shaw published his plays according to his own ideas of spelling reform. Specifically, he did not include apostrophes in common contractions such as “dont” and “theyre.” This edition (and the Project Gutenberg edition on which it is based) re-introduce these apostrophes. Some of Shaw’s reformed spellings have been retained where they are consistent with modern American spellings, as in “color.” Other archaic or obsolete spellings have been modernized in accordance with Standard Ebooks editorial policy.</meta>
-		<meta property="se:word-count">48660</meta>
+		<meta property="se:word-count">47762</meta>
 		<meta property="se:reading-ease.flesch">75.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heartbreak_House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_heartbreak-house</meta>
