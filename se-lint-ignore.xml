@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="act-2.xhtml">
 		<ignore code="t-041">
+			<line>529</line>
 			<reason>Punctuation marks are a stylistic choice.</reason>
 		</ignore>
 	</file>
 	<file path="act-3.xhtml">
 		<ignore code="t-041">
+			<line>707</line>
 			<reason>Punctuation marks are a stylistic choice.</reason>
 		</ignore>
 	</file>
