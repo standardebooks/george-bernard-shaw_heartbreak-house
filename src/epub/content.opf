@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Heartbreak House: A Fantasia in the Russian Manner on English Themes</dc:title>
 		<meta property="file-as" refines="#fulltitle">Heartbreak House: A Fantasia in the Russian Manner on English Themes</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Upper class -- England -- Drama</dc:subject>
 		<dc:subject id="subject-3">England -- Social life and customs -- 20th century -- Drama</dc:subject>
